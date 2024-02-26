@@ -1,0 +1,4 @@
+[DESKTOP-8S662RA\hpp@DESKTOP-8S662RA] 2024-02-26 08:18:57Z [Info] Parsing args...
+[DESKTOP-8S662RA\hpp@DESKTOP-8S662RA] 2024-02-26 08:18:57Z [Info] Parsed args successfully.
+[DESKTOP-8S662RA\hpp@DESKTOP-8S662RA] 2024-02-26 08:18:57Z [Info] Invoking DFS Discovery because no ComputerTargets or PathTargets were specified
+[DESKTOP-8S662RA\hpp@DESKTOP-8S662RA] 2024-02-26 08:18:57Z [Info] Getting DFS paths from AD.
